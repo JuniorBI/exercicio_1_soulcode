@@ -13,7 +13,7 @@ if(a < b + c && b < c + a && c < a + b) { //verifica o tamanho dos lados
         alert("Isósceles")
     } else {
         alert ("escaleno")
-    }
-
-    
+    }     
+} else {
+    alert("Os lados não formam um triangulo!")
 }
